@@ -2,7 +2,7 @@
 Movies is an application designed to provide users with an enjoyable experience of watching movies and series. It offers a plethora of features that allow users to get all the details of the movie or series they are watching.
 
 # Screenshots
-![image]![192527481-c412e96b-7ebb-4db4-ab84-4a472a13be4b](https://user-images.githubusercontent.com/47110411/235758422-2dc21124-ca4a-4013-b3f6-1a1ca744ec58.png)
+[192527481-c412e96b-7ebb-4db4-ab84-4a472a13be4b](https://user-images.githubusercontent.com/47110411/235758422-2dc21124-ca4a-4013-b3f6-1a1ca744ec58.png)
 
 A new Flutter project.
 
