@@ -4,7 +4,9 @@ Movies is an application designed to provide users with an enjoyable experience 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/47110411/235758422-2dc21124-ca4a-4013-b3f6-1a1ca744ec58.png)
 
-A new Flutter project.
+# Usage
+Using the Movies application is straightforward. Once you've installed it on your device, launch the app and browse through the list of movies or series available. You can select a movie or series to view its details, including its rating, plot summary, and cast.
+Additionally, you can mark movies or series as favorites, which you can access later from the Favorites section of the app.
 
 ## Getting Started
 
